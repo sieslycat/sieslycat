@@ -1,6 +1,3 @@
-<img align='right'  src="https://source.unsplash.com/random/500x100">
-
-
 ### Hi there I'm Houshuai :lemon:
 
 [![csdn](https://img.shields.io/badge/-csdn-c14438?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/qq_15807167)
